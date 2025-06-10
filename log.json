@@ -498,5 +498,15 @@
     "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
     "statusListId": "1SYR1RSFMK",
     "statusListIndex": 14
+  },
+  {
+    "timestamp": "2025-06-10T20:34:34.462Z",
+    "credentialId": "urn:uuid:31b23f17-225c-40e0-8b82-71bcac94a480",
+    "credentialIssuer": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
+    "credentialSubject": "did:example:Hasnain",
+    "credentialState": "active",
+    "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
+    "statusListId": "1SYR1RSFMK",
+    "statusListIndex": 15
   }
 ]
