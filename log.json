@@ -1204,5 +1204,15 @@
     "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
     "statusListId": "1SYR1RSFMK",
     "statusListIndex": 53
+  },
+  {
+    "timestamp": "2025-10-23T20:26:41.891Z",
+    "credentialId": "urn:uuid:5c522d07-f52d-42c6-8a2f-0dd7d9d5c9e7",
+    "credentialIssuer": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
+    "credentialSubject": "did:exaple:student",
+    "credentialState": "active",
+    "verificationMethod": "did:key:z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy#z6Mkf2rgv7ef8FmLJ5Py87LMa7nofQgv6AstdkgsXiiCUJEy",
+    "statusListId": "1SYR1RSFMK",
+    "statusListIndex": 54
   }
 ]
